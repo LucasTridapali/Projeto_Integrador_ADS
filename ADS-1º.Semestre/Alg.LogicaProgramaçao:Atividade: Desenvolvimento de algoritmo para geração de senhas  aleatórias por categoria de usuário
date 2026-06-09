@@ -1,6 +1,5 @@
 programa
 {
-    inclua biblioteca Util --> u // Biblioteca para gerar números aleatórios
 
     funcao inicio()
     {
