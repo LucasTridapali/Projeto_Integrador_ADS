@@ -30,10 +30,11 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 ## 📚 Disciplinas e Atividades Desenvolvidas
 
 ### 1. Algoritmos e Programação Estruturada
-- **Foco:** Desenvolvimento de raciocínio lógico, estruturas condicionais (`if/else`), estruturas de repetição (`while/for`), vetores, matrizes, funções e manipulação de arquivos.
+- **Foco:** Desenvolvimento de raciocínio lógico, estruturas condicionais, estruturas de repetição, vetores, matrizes, funções e manipulação de arquivos.
 - **Principais Atividades:**
   - **Lista de Exercícios Acadêmicos:** Resolução de mais de 50 problemas de lógica algorítmica.
-  - **[Projeto Prático] Sistema de Gerenciamento de Biblioteca:** Desenvolvido em linguagem C, utilizando structs e persistência em arquivos `.txt`.
+  - **[Projeto Prático] Desenvolvimento de algoritmo para geração de senhas
+  - aleatórias por categoria de usuário:** Desenvolvido em Pseudocodigo.
 - **Pasta do Código:** [`/algoritmos`](./algoritmos)
 
 ### 2. Introdução ao Desenvolvimento Web
