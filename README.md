@@ -44,10 +44,9 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 - **Pasta do Código:** [`/web-dev`](./web-dev)
 
 ### 3. Engenharia de Software e Requisitos
-- **Foco:** Ciclos de vida de software, metodologias ágeis (Scrum/Kanban) e elicitação de requisitos.
+- **Foco:** Ciclos de vida de software, diagramas de casos de uso com UML.
 - **Principais Atividades:**
-  - **Documento de Especificação de Requisitos (SRS):** Criação completa do escopo e histórias de usuário para um aplicativo de entregas local.
-  - **Prototipagem:** Desenvolvimento do wireframe de alta fidelidade no Figma.
+  - **Documento de Especificação de Requisitos (SRS):** Criação completa do escopo e histórias de usuário para um programa web de formulario.
 - **Pasta dos Projetos:** [`/engenharia-software`](./engenharia-software)
 
 ---
