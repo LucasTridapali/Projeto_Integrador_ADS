@@ -39,8 +39,8 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 ### 2. Projeto Integrador 1
 - **Foco:** Familiarizar o aluno com o ciclo de vida de um projeto de software em sua fase inicial (concepção e análise), ensinando-o a          transformar um requisito em uma solução algorítmica estruturada e a documentar suas ideias de forma clara e profissional.
 - **Principais Atividades:**
-  - **Criação de Landing Page:** Construção de uma página institucional aplicando boas práticas de acessibilidade.
-  - **Estudo de Layouts:** Implementação de layouts flexíveis usando CSS Vanilla (Flexbox/Grid).
+  - **Pesquisa e Análise de Sistemas de Questionários Existentes:** Realizar um estudo comparativo entre o sistema proposto no projeto e        plataformas reais de pesquisa/questionários.
+  - **Pesquisa de Tecnoligias Usadas no Desenvolvimento Web:** Realizar uma analise sobre as principais tecnologias usadas para       desenvolvimento Web tanto para Front-end como Back-end. 
 - **Pasta do Código:** [`/web-dev`](./web-dev)
 
 ### 3. Engenharia de Software e Requisitos
