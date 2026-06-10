@@ -1,4 +1,4 @@
-# 🎓 Portfólio Acadêmico: 1º Semestre — Bacharelado em [Nome do seu Curso]
+# 🎓 Portfólio Acadêmico: 1º Semestre — Tecnologo em Análise e Desenvolvimento de Sistemas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge&logo=github" alt="Status"/>
