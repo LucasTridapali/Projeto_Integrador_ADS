@@ -36,7 +36,7 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
   - **[Projeto Prático] Desenvolvimento de algoritmo para geração de senhas aleatórias por categoria de usuário:** Desenvolvido em              Pseudocodigo.
 - **Pasta do Código:** [`/algoritmos`](./algoritmos)
 
-### 2. Introdução ao Desenvolvimento Web
+### 2. Projeto Integrador 1
 - **Foco:** Fundamentos da arquitetura web, marcação semântica e estilização responsiva.
 - **Principais Atividades:**
   - **Criação de Landing Page:** Construção de uma página institucional aplicando boas práticas de acessibilidade.
