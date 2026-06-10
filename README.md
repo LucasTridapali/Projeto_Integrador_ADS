@@ -10,7 +10,7 @@
 
 ## 📌 Sobre o Repositório
 
-Este repositório foi criado com o objetivo de centralizar, organizar e documentar todas as atividades práticas, projetos, laboratórios e estudos teóricos desenvolvidos durante o meu **primeiro semestre** na faculdade de [Nome da Sua Faculdade].
+Este repositório foi criado com o objetivo de centralizar, organizar e documentar todas as atividades práticas, projetos, laboratórios e estudos teóricos desenvolvidos durante o meu **primeiro semestre** na faculdade de [FATEC Lins-SP].
 
 O foco principal deste semestre foi a construção de uma base sólida em lógica de programação, fundamentos de computação, modelagem inicial e introdução ao desenvolvimento de software, aplicando os conceitos teóricos diretamente em projetos práticos.
 
@@ -20,10 +20,10 @@ O foco principal deste semestre foi a construção de uma base sólida em lógic
 
 Durante as disciplinas práticas, tive contato com as seguintes tecnologias e ferramentas:
 
-- **Linguagens de Programação/Marcação:** C / Python / HTML5 / CSS3 (ajuste para as que você usou)
-- **Ambientes de Desenvolvimento (IDEs):** VS Code / CLion
+- **Linguagens de Programação/Marcação:** Pseudocodigo (Portugol)  
+- **Ambientes de Desenvolvimento (IDEs):** VS Code / VisualG
 - **Controle de Versão:** Git e GitHub
-- **Sistemas Operacionais/Design:** Linux (Ubuntu), Bash, Figma (Prototipagem)
+- **Sistemas Operacionais/Design:** Linux (Debian), Bash
 
 ---
 
