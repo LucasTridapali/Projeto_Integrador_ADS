@@ -33,8 +33,7 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 - **Foco:** Desenvolvimento de raciocínio lógico, estruturas condicionais, estruturas de repetição, vetores, matrizes, funções e manipulação de arquivos.
 - **Principais Atividades:**
   - **Lista de Exercícios Acadêmicos:** Resolução de mais de 50 problemas de lógica algorítmica.
-  - **[Projeto Prático] Desenvolvimento de algoritmo para geração de senhas
-  - aleatórias por categoria de usuário:** Desenvolvido em Pseudocodigo.
+  - **[Projeto Prático] Desenvolvimento de algoritmo para geração de senhas aleatórias por categoria de usuário:** Desenvolvido em              Pseudocodigo.
 - **Pasta do Código:** [`/algoritmos`](./algoritmos)
 
 ### 2. Introdução ao Desenvolvimento Web
