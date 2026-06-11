@@ -51,18 +51,6 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 
 ---
 
-## 🚀 Principais Projetos em Destaque
-
-### 🛠️ Projeto 1: Sistema de Gestão de Biblioteca (Linguagem C)
-- **Descrição:** Um software de linha de comando para gerenciar o acervo de uma biblioteca escolar, permitindo cadastrar livros, alunos e realizar empréstimos.
-- **O que aprendi:** Alocação de memória, manipulação de strings, ponteiros e organização de código estruturado.
-
-### 🎨 Projeto 2: Meu Primeiro Portfólio Web
-- **Descrição:** Site responsivo construído para apresentar meus projetos e evolução de carreira.
-- **O que aprendi:** Semântica HTML5, CSS moderno e versionamento contínuo com Git.
-
----
-
 ## 📈 Evolução e Aprendizados
 
 Este primeiro semestre foi crucial para a minha transição em direção ao **pensamento computacional**. Os principais marcos da minha evolução foram:
