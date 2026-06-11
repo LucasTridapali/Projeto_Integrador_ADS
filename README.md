@@ -47,7 +47,7 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 - **Foco:** Ciclos de vida de software, diagramas de casos de uso com UML.
 - **Principais Atividades:**
   - **Documento de Especificação de Requisitos (SRS):** Criação completa do escopo e histórias de usuário para um programa web de formulario.
-- **Pasta dos Projetos:** [`/engenharia-software`](./engenharia-software)
+- **Pasta dos Projetos:** [`/engenharia-software`](ADS-1º.Semestre/engenharia-software)
 
 ---
 
