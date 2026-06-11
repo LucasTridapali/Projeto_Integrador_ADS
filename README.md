@@ -41,7 +41,7 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 - **Principais Atividades:**
   - **Pesquisa e Análise de Sistemas de Questionários Existentes:** Realizar um estudo comparativo entre o sistema proposto no projeto e        plataformas reais de pesquisa/questionários.
   - **Pesquisa de Tecnologias Usadas no Desenvolvimento Web:** Realizar uma analise sobre as principais tecnologias usadas para       desenvolvimento Web tanto para Front-end como Back-end. 
-- **Pasta do Código:** [`/projeto-integrador1`](./projeto-integrador1)
+- **Pasta do Código:** [`/projeto-integrador1`](ADS-1º.Semestre/projeto-integrador1)
 
 ### 3. Engenharia de Software e Requisitos
 - **Foco:** Ciclos de vida de software, diagramas de casos de uso com UML.
