@@ -59,16 +59,3 @@ Este primeiro semestre foi crucial para a minha transição em direção ao **pe
 3. **Trabalho em Equipe:** Colaboração em projetos multidisciplinares utilizando ferramentas de gestão visual.
 
 ---
-
-## 📂 Estrutura do Repositório
-
-```text
-├───algoritmos
-│   ├───listas-exercicios
-│   └───projeto-biblioteca
-├───engenharia-software
-│   ├───documento-requisitos
-│   └───links-figma
-└───web-dev
-    └───portfolio-pessoal
-
