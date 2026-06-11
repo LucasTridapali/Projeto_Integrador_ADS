@@ -34,7 +34,7 @@ Durante as disciplinas práticas, tive contato com as seguintes tecnologias e fe
 - **Principais Atividades:**
   - **Lista de Exercícios Acadêmicos:** Resolução de mais de 50 problemas de lógica algorítmica.
   - **[Projeto Prático] Desenvolvimento de algoritmo para geração de senhas aleatórias por categoria de usuário:** Desenvolvido em              Pseudocodigo.
-- **Pasta do Código:** [`/algoritmos`](./algoritmos)
+- **Pasta do Código:** [`/algoritmos`](ADS-1º.Semestre/algoritmo)
 
 ### 2. Projeto Integrador 1
 - **Foco:** Familiarizar o aluno com o ciclo de vida de um projeto de software em sua fase inicial (concepção e análise), ensinando-o a          transformar um requisito em uma solução algorítmica estruturada e a documentar suas ideias de forma clara e profissional.
